@@ -1,3 +1,5 @@
+package others;
+
 public class SearchingPractice {
 
     public static void main(String[] args) {
